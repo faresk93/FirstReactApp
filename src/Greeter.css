@@ -1,0 +1,7 @@
+.myButton {
+    padding: 20px;
+    background: lightblue;
+    color: blue;
+    font-size: calc(20px + 2vmin);
+    outline: none;
+}
